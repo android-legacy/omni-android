@@ -298,7 +298,7 @@
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/audio-caf-bfam" name="android_hardware_qcom_audio-caf-bfam" remote="android-legacy" revision="kk" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="omnirom" revision="android-4.4" />
-  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />
+<!--  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />-->
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/display-caf-bfam" name="android_hardware_qcom_display-caf-bfam" remote="android-legacy" revision="kk" />
